@@ -1,0 +1,154 @@
+body {
+    font-size: 14px;
+    line-height: 22px;
+    font-family: "Arial", sans-serif;
+    background-color: white;
+}
+.conteiner {
+    width: 960px;
+    margin: 0 auto;
+    padding: 10px;
+}
+.header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.block2 {
+    background-color: #777777;
+    width: 279px;
+    height: 108px;
+}
+.block3 {
+    background-color: #777777;
+    width: 513px;
+    height: 108px;
+    color: white;
+    text-decoration: none;
+    text-align: right;
+}
+.block3 ul {
+    list-style: none;
+    padding-right: 22px;
+    padding-top: 6px;
+}
+.block3 a {
+    color: white;
+}
+hr {
+    margin-top: 10px;
+    margin-bottom: 15px;
+}
+.main_content {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.content{
+    margin-left: 20px;
+}
+.sidebar {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.block4 {
+    background-color: #777777;
+    color: white;
+    width: 184px;
+    height: 335px;
+}
+.block4_text {
+    padding-left: 13px;
+    padding-top: 13px;
+}
+.block7 {
+    margin-top: auto;
+}
+.block5 {
+    width: 757px;
+    height: 210px;
+    background-color: #dcdcdc;
+    color: #777777;
+    margin-bottom: 20px;
+}
+.block5_text {
+    padding-top: 23px;
+    padding-left: 23px;
+}
+.block6 {
+    display: inline-block;
+}
+.img2 {
+    margin-right: 18px;
+    margin-bottom: 18px;
+}
+.img22 {
+    margin-right: -18px;
+}
+.block89 {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 7px;
+}
+.block8 {
+    background-color: #dcdcdc;
+    color: #777777;
+    width: 369px;
+    height: 200px;
+}
+.block8_text {
+    padding-top: 23px;
+    padding-left: 23px;
+}
+.block9 {
+    background-color: #dcdcdc;
+    color: #777777;
+    width: 369px;
+    height: 200px;
+}
+.block9_text {
+    padding-top: 23px;
+    padding-left: 23px;
+    margin-right: 20px;
+}
+.footer {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.block10 {
+    background-color: #777777;
+    color: white;
+    width: 297px;
+    height: 180px;
+}
+.block10 ul{
+    column-count: 2;
+    list-style-type: none;
+}
+.block10_list {
+    padding-top: 1px;
+    text-align: left;
+}
+.block12_13 {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.block11 {
+    background-color: #777777;
+    color: white;
+    width: 297px;
+    height: 180px;
+}
+.block11_list ul {
+    list-style-type: square;
+}
+.block13 {
+    background-color: #777777;
+    color: white;
+    width: 308px;
+    height: 75px;
+}
